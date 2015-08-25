@@ -1,0 +1,24 @@
+2
+Matrix
+Andy Wachowski, Larry Wachowski
+4
+Keanu Reeves
+Laurence Fishburne
+Carrie-Anne Moss
+Hugo Weaving
+Warner Bros. Pictures
+1999
+136
+Matrix-99-f
+Gwiezdne wojny
+George Lucas
+5
+Mark Hamill
+Harrison Ford
+Carrie Fisher
+David Prowse
+Alec Guinness
+Lucasfilm, 20th Century Fox
+1977
+121
+StarWars-a77-f

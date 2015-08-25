@@ -1,0 +1,31 @@
+1) Uzupelnij funkcje void Biblioteka::wyswietlZbior() tak,
+zeby na konsoli wyswietlic wszystkie egzemplarze w bibliotece.
+
+2) W pliku bibliotekarz.cpp dodaj jakis Egzemplarz i wyswietl
+zawartosc zbioru po zmianie.
+
+3) Nastepnie dodaj uzytkownika, wypozycz na niego jakis egzemplarz
+( bool Biblioteka::wypozycz(const int&, const string&); )
+i ponownie wyswietl zawartosc zbioru po zmianie.
+
+4) Oddaj egzemplarz i ponownie wyswietl zawartosc zbioru po zmianie.
+
+5) Dodaj klase DVD, ktora dziedziczy po klasie Artykul i posiada
+nastepujace atrybuty:
+tytul, rezyser, obsada ( uzyj vector<string> ), wytwornia filmowa, rok produkcji, czas trwania w minutach. Rozszerz konstruktor klasy
+Biblioteka tak, zeby wczytywac plik dane\dvd.txt i dodac egzemplarze
+dvd do zbioru.
+
+Format pliku dvd.txt:
+<ile filmow>
+<tytul>
+<rezyser>
+<ilu aktorow w obsadzie>
+<aktor 1>
+<aktor 2>
+<aktor 3>
+<itd.>
+<wytwornia>
+<rok produkcji>
+<czas trwania w minutach>
+<sygnatura>
